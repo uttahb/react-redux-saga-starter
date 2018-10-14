@@ -4,12 +4,12 @@ To run this project,
 
 Clone the repo
 `
-npm install
+npm install &&
 npm start
 `
 or if you are using yarn
 `
-yarn install
+yarn install &&
 yarn start
 `
 
